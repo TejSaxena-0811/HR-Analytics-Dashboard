@@ -49,3 +49,8 @@ Performed end-to-end data analysis and developed an interactive dashboard to exp
 ## Dataset
 
 The dataset contains 1,470 employee records covering demographics, departments, job roles, salaries, education, job satisfaction, work experience, and attrition status.
+
+## Flowchart / GitDiagram:
+
+<img width="482" height="697" alt="image" src="https://github.com/user-attachments/assets/818573ce-61b6-4d24-9b0f-4d38359273b8" />
+
