@@ -1,4 +1,4 @@
-# HR Analytics Dashboard | Power BI
+# HR Analytics Dashboard (Attrition) | Power BI
 
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee data, workforce distribution, and attrition trends.
 
